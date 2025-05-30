@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672385366671",
+    "project_id": "fir-auth-823af",
+    "storage_bucket": "fir-auth-823af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672385366671:android:aa23829b832aec3ad58efa",
+        "android_client_info": {
+          "package_name": "ru.mirea.kulikov.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-fNIH4200AdZcxk4xTQIi4QzSOyxxf-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

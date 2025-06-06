@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_data"
+            android:icon="@drawable/ic_menu_info"
+            android:title="Data" />
+
+        <item
+            android:id="@+id/nav_browser"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Browser" />
+        <item
+            android:id="@+id/nav_worker"
+            android:icon="@drawable/ic_work"
+            android:title="Background process" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/nav_api"
+            android:icon="@drawable/ic_api"
+            android:title="API" />
+
+        <item
+            android:id="@+id/nav_files"
+            android:icon="@drawable/ic_menu_files"
+            android:title="File processing" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow" />
+
+        <item
+            android:id="@+id/nav_altitude"
+            android:icon="@drawable/ic_terrain"
+            android:title="Barometr" />
+
+        <item
+            android:id="@+id/nav_microphone"
+            android:icon="@drawable/ic_mic"
+            android:title="Voice Analysis" />
+
+    </group>
+</menu>
